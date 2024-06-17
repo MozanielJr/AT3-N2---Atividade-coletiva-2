@@ -1,6 +1,17 @@
 # AT3-N2---Atividade-coletiva-2
+Alunos:
 
-Crie um projeto (em Java 17) para representar um servidor utilizando sockets. O servidor terá a função de
+CAIO MANOEL COSTA LEONARDO;
+
+ESTER LUIZA SIQUEIRA CORRÊA GALATI;
+
+LUCAS NASCIMENTO VASCONCELOS JUNIOR;
+
+MOZANIEL MEDEIROS DOS SANTOS JUNIOR;
+
+THIAGO YURI SOUSA DIAS ALVES;
+
+Projeto em Java 17 para representar um servidor utilizando sockets. O servidor terá a função de
 controlar um registro/cadastro de livros de uma biblioteca, sendo capaz de executar as seguintes
 funcionalidades:
 
